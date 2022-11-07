@@ -3,6 +3,9 @@ RENCANA KONTEN
 - JAVASCRIPT
   * ES6
   * Framwork Javascript
+    ^Vue
 - Strukdtur data dasar
 - PHP FRAMEWORK
+   ^ Laravel
 - INTERVIEW
+- Python
