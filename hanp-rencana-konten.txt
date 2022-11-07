@@ -5,6 +5,7 @@ RENCANA KONTEN
   * Framwork Javascript
     ^ Vue
     ^ React
+    ^ angular
 - Strukdtur data dasar
 - INTERVIEW
 - Python
