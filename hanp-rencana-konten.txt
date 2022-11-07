@@ -6,7 +6,5 @@ RENCANA KONTEN
     ^ Vue
     ^ React
 - Strukdtur data dasar
-- PHP FRAMEWORK
-   ^ Laravel
 - INTERVIEW
 - Python
