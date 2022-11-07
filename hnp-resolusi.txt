@@ -3,4 +3,5 @@ HANIP RESOLUSI
 - konsisten belajar skill baru
 - belajar restfull
 - belajar flutter
-- Belajar javascript dan laravel
+- Belajar javascript
+- belajar laravel
