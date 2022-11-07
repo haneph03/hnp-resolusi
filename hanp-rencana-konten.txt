@@ -3,5 +3,6 @@ RENCANA KONTEN
 - JAVASCRIPT
   * ES6
   * Framwork Javascript
+- Strukdtur data dasar
 - PHP FRAMEWORK
 - INTERVIEW
